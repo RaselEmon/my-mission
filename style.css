@@ -56,9 +56,6 @@ border-image-slice: 1;
     font-weight: normal;
     font-size: 18px;
     line-height: 28px;
-    /* or 156% */
-    
-    
     color: #3E3E3E;
 }
 h1{
@@ -107,9 +104,6 @@ color: #a75aff;
     font-weight: normal;
     font-size: 16px;
     line-height: 24px;
-    /* identical to box height */
-    
-    
     color: #434343;
 }
 
@@ -182,6 +176,7 @@ color: #424242;
     
     
     }
+
     .experience-area2 h3{
         font-family: Poppin;
         font-style: normal;
@@ -190,6 +185,7 @@ color: #424242;
         line-height: 400px;
         color: #000000;
     }
+
     .experience-area2 p{
         position: absolute;
     width: 315px;
@@ -236,6 +232,7 @@ color: #424242;
         color: #000000;
 
 }
+
 .experience-area3 p{
     position: absolute;
 width: 315px;
@@ -254,8 +251,6 @@ color: #424242;
     font-style: normal;
     font-weight: bold;
     font-size: 48px;
- 
-    
     position:relative;
     text-align:center ;
 }
@@ -291,14 +286,15 @@ color: #424242;
     font-weight: 700;
     text-decoration: none;
 
-
 }
+
 .section3{
 
 display: flex;
 
 
 }
+
 .sec-3{
 
     position: absolute;
@@ -307,6 +303,7 @@ left: 158px;
 top: 1500px;
 
 }
+
 #img-5{
     position: absolute;
     width: 400px;
@@ -322,6 +319,7 @@ height: 400px;
 
 
 }
+
 .sec-3-2 h1{
 
 font-family: Poppins;
@@ -329,6 +327,7 @@ font-style: normal;
 font-weight: bold;
 font-size: 36px;
 }
+
 .section4{
 
 display: flex;
@@ -344,8 +343,8 @@ display: flex;
     left: 158px;
     top: 2200px;
 
-
 }
+
 .sec-4-2 h1{
 font-family: Poppins;
 font-style: normal;
@@ -353,6 +352,7 @@ font-weight: bold;
 font-size: 36px;
 line-height: 24px;
 }
+
 .sec-4{
 
     position: absolute;
@@ -361,12 +361,12 @@ left: 883px;
 top: 2150px;
 
 }
+
 #img-6{
     position: absolute;
     width: 400px;
 height: 400px;
 }
-
 
 
 .new-sec{
@@ -387,6 +387,12 @@ height: 400px;
 
     position: absolute;
     left: 158px;  
+}
+.sec-5 h2{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
 }
 .new-sec-1{
    
@@ -412,42 +418,38 @@ height: 400px;
     left: 440px;
     top: 200px;
 }
-sec-5 p{
-    height: 100px;
-    width: 100px;
-}
-.footer{
-   
-    position: absolute;
+
+
+.footer{ 
+position: absolute;
 left: 0%;
 right: 0%;
 top: 3410px;
 bottom: 0%;
 height: 177px;
 width: 1440px;
-
-/* Default / Black */
-
 background: #0B0D17;
 }
+
 #mission{
 
 position:relative;
 text-align: center;
 
 }
+
 #work{
     position:relative;
     text-align: center;
    color:#D9DBE1
 }
+
 .anchor-button-new{
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
     padding: 12px;
-    
     width: 172px;
     height: 32px;
     background: #FF5959;
