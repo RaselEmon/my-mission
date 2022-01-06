@@ -343,18 +343,7 @@ top: 2150px;
 height: 400px;
 }
 
-.footer{
-   
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    top: 98%;
-    bottom: 0%;
-    
-    
-    background: #0B0D17;
 
-}
 
 .new-sec{
 
@@ -402,4 +391,23 @@ height: 400px;
 sec-5 p{
     height: 100px;
     width: 100px;
+}
+.footer{
+   
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 3410px;
+bottom: 0%;
+height: 177px;
+width: 1440px;
+
+/* Default / Black */
+
+background: #0B0D17;
+}
+#mission{
+
+
+    
 }
