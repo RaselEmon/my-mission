@@ -110,14 +110,161 @@ color: #FFAD5A;
 
 .second-sec{
     display: flex;
+ margin-left: 156px;
+}
+.experience-area1{
+    
+    width: 360px;
+    height: 376px;
+    left: 156px;
+    top: 723px;
+    padding-left: 1%;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 26px;
+}
+
+.experience-area1 img{
+
+position: absolute;
+height: 200px;
+width: 200px;
+
 
 }
-.experience-area h3{
-    color: orange;
+.experience-area1 h3{
+    font-family: Poppin;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 400px;
+    color: #000000;
+    
+
+}
+.experience-area1 p{
+    position: absolute;
+width: 315px;
+height: 101px;
+top: 1040px;
+font-family: Poppin;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 20px;
+color: #424242;
 }
 
-.experience-area{
-    box-shadow: 5px 7px 40px gray;
-    height: 50%;
-    width: 20%;
+
+.experience-area2{
+    
+    width: 360px;
+    height: 376px;
+    left: 540px;
+    top: 723px;
+    margin-left: 1%;
+    padding-left: 1%;
+
+    background: #FF59591A;
+
+    border-radius: 26px;
+
+}
+.experience-area2 img{
+
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    
+    
+    }
+    .experience-area2 h3{
+        font-family: Poppin;
+        font-style: normal;
+        font-weight: 600px;
+        font-size: 24px;
+        line-height: 400px;
+        color: #000000;
+    }
+    .experience-area2 p{
+        position: absolute;
+    width: 315px;
+    height: 101px;
+    top: 1040px;
+    font-family: Poppin;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #424242;
+    }
+    
+
+.experience-area3{
+
+    width: 360px;
+    height: 376px;
+    left: 924px;
+    top: 723px;
+    margin-left: 1%;
+    padding-left: 1%;
+    background: #FFF4D6;
+    border-radius: 26px;
+    
+}
+
+.experience-area3 img{
+
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    
+    
+    }
+
+.experience-area3 h3{
+
+    font-family: Poppin;
+        font-style: normal;
+        font-weight: 600px;
+        font-size: 24px;
+        line-height: 400px;
+        color: #000000;
+
+}
+.experience-area3 p{
+    position: absolute;
+width: 315px;
+height: 101px;
+top: 1040px;
+font-family: Poppin;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 20px;
+color: #424242;
+}
+
+#sec2{
+  
+    text-align:center ;
+}
+
+.anchor-button2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px;
+    
+   
+    width: 172px;
+    height: 32px;
+    left: 156px;
+  
+    
+    background: #FF5959;
+    border-radius: 5px;
+
+
+
 }
