@@ -2,6 +2,7 @@
 section{
     height: 550px;
     padding-bottom: 150px;
+    width: 1440px;
 }
 .section1{
 
@@ -353,4 +354,52 @@ height: 400px;
     
     background: #0B0D17;
 
+}
+
+.new-sec{
+
+    position: absolute;
+    display: flex;
+    left: 758px;
+}
+.section5{
+    display: flex;
+    left: 158px;
+    background-image: url(images/bg2.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.sec-5{
+
+    position: absolute;
+    left: 158px;  
+}
+.new-sec-1{
+   
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    left: 40px;
+    top: 200px;
+}
+.new-sec-2{
+    
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    left: 240px;
+    top: 200px;
+}
+.new-sec-3{
+    
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    left: 440px;
+    top: 200px;
+}
+sec-5 p{
+    height: 100px;
+    width: 100px;
 }
