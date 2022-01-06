@@ -39,7 +39,7 @@ left: 156px;
 top: 140px;
 padding-bottom: 30px;
 }
-p{
+.p-1{
     position: absolute;
     width: 471px;
     height: 84px;
@@ -106,4 +106,18 @@ color: #FFAD5A;
     
     
     color: #434343;
+}
+
+.second-sec{
+    display: flex;
+
+}
+.experience-area h3{
+    color: orange;
+}
+
+.experience-area{
+    box-shadow: 5px 7px 40px gray;
+    height: 50%;
+    width: 20%;
 }
